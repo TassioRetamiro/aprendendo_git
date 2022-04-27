@@ -1,2 +1,2 @@
-# aprendendo_git
+# projeto1
 projeto1
