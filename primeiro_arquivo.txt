@@ -1,0 +1,11 @@
+
+Comandos básicos Git
+
+
+ls - listar arquivos
+git clone - clonar repositório
+git status - ver se os arquivos estão adicionados ou não
+git add . - adicionar arquivos 
+git commit -m " comentários aqui " - inserir comentários
+git checkout -b - sair da branch e criar uma branch nova
+git push origin - subir a branch nova
